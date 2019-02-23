@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jenkinstestingapp;
+package helloworld;
 
 /**
  *
  * @author Tang
  */
-public class JenkinsTestingApp {
+public class Helloworld {
 
     /**
      * @param args the command line arguments
